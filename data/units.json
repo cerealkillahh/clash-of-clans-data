@@ -10,6 +10,21 @@
   "4000008": "dragon",
   "4000009": "pekka",
   "4000010": "baby_dragon",
-  "4000011": "hog_rider/golem",
-  "4000012": "valkyrie"
+  "4000011": "hog_rider",
+  "4000012": "valkyrie",
+  "4000013": "golem",
+  "4000015": "witch",
+  "4000017": "lava_hound",
+  "4000022": "bowler",
+  "4000023": "minion",
+  "4000024": "miner",
+  "4000053": "yeti",
+  "4000058": "ice_golem",
+  "4000059": "electro_dragon",
+  "4000065": "dragon_rider",
+  "4000082": "head_hunter",
+  "4000095": "electro_titan",
+  "4000097": "apprentice_warden",
+  "4000110": "root_rider",
+  "4000123": "druid"
 }
