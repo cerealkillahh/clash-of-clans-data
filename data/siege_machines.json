@@ -1,3 +1,10 @@
 {
-
+  "4000051": "wall_wrecker",
+  "4000052": "battle_blimp",
+  "4000062": "stone_slammer",
+  "4000075": "siege_barracks",
+  "4000087": "log_launcher",
+  "4000091": "flame_slinger",
+  "4000092": "battle_drill",
+  "unknown": "unknown"
 }
