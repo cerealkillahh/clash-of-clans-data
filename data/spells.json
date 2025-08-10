@@ -1,0 +1,16 @@
+{
+  "26000000": "lightning_spell",
+  "26000001": "healing_spell",
+  "26000002": "rage_spell",
+  "26000003": "jump_spell",
+  "26000005": "freeze_spell",
+  "26000009": "poison_spell",
+  "26000010": "earthquake_spell",
+  "26000011": "haste/bat_spell",
+  "26000016": "clone_spell",
+  "26000017": "skeleton_spell",
+  "26000028": "haste/bat_spell",
+  "26000035": "invisibility_spell",
+  "26000053": "recall_spell",
+  "26000070": "overgrowth_spell"
+}
