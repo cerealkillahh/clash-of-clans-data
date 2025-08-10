@@ -26,5 +26,7 @@
   "4000095": "electro_titan",
   "4000097": "apprentice_warden",
   "4000110": "root_rider",
-  "4000123": "druid"
+  "4000123": "druid",
+  "unknown1": "unknown",
+  "unknown2": "unknown"
 }
