@@ -12,5 +12,6 @@
   "26000028": "haste/bat_spell",
   "26000035": "invisibility_spell",
   "26000053": "recall_spell",
-  "26000070": "overgrowth_spell"
+  "26000070": "overgrowth_spell",
+  "26000120": "totem_spell"
 }
